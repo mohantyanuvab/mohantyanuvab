@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Anuvab
+
+Exploring the world of **JavaScript** and **Python** with curiosity and creativity. Building projects that spark joy and problem-solving. Join me on my journey as I code, learn, and share along the way.
+
+- 🔭 Currently working on full stack projects using **React** and **Django**
+- 🌱 Always learning and exploring new tech
+- 💬 Let's talk about web development, Python, or any cool tech stuff!
+- 📫 How to reach me: [GitHub](https://github.com/mohantyanuvab)
 
 <!--
 **mohantyanuvab/mohantyanuvab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
